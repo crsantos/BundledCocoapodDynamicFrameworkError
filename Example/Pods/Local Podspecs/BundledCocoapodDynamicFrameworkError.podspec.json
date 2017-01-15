@@ -1,0 +1,23 @@
+{
+  "name": "BundledCocoapodDynamicFrameworkError",
+  "version": "0.1.0",
+  "summary": "Integrates a dynamic framework (privately) inside a private pod",
+  "description": "This is an attempt to integrate a dynamic framework (privately) inside a private pod",
+  "homepage": "https://github.com/crsantos/BundledCocoapodDynamicFrameworkError",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Carlos Santos": "carlosricardosantos@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/crsantos/BundledCocoapodDynamicFrameworkError.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BundledCocoapodDynamicFrameworkError/Classes/**/*",
+  "vendored_frameworks": "BundledCocoapodDynamicFrameworkError/Frameworks/SampleDynamicLib.framework"
+}

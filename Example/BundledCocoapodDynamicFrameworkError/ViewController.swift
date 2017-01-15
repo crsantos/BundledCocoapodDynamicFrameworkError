@@ -7,9 +7,12 @@
 //
 
 import UIKit
+import BundledCocoapodDynamicFrameworkError
 
 class ViewController: UIViewController {
 
+    var myLibSampleStruct = MyLibSampleStruct()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

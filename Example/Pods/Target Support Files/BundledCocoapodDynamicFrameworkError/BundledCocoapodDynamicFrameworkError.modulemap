@@ -1,0 +1,6 @@
+framework module BundledCocoapodDynamicFrameworkError {
+  umbrella header "BundledCocoapodDynamicFrameworkError-umbrella.h"
+
+  export *
+  module * { export * }
+}
