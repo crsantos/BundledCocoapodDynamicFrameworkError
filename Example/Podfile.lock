@@ -13,7 +13,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BundledCocoapodDynamicFrameworkError: cfa7e8bff44adaff1c50ba9ffccca3583eb9bbf1
+  BundledCocoapodDynamicFrameworkError: 71f5120ebdf35e905642fa7fed44be680d64b08d
   Nimble: 415e3aa3267e7bc2c96b05fa814ddea7bb686a29
   Quick: 8024e4a47e6cc03a9d5245ef0948264fc6d27cff
 

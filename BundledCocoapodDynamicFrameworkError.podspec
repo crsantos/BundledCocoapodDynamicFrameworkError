@@ -13,6 +13,7 @@ This is an attempt to integrate a dynamic framework (privately) inside a private
   s.source           = { :git => 'https://github.com/crsantos/BundledCocoapodDynamicFrameworkError.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
+  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3' }
 
   s.source_files = 'BundledCocoapodDynamicFrameworkError/Classes/**/*'
   s.vendored_frameworks = 'BundledCocoapodDynamicFrameworkError/Frameworks/SampleDynamicLib.framework'
