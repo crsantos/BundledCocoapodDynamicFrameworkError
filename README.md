@@ -6,9 +6,9 @@ This is an example `pod` (and its Demo integration project) that triggers an err
 
 #### Cocoapods version
 
-I've tried versions `1.1.1` and `1.2.0.beta.3` for this test.
+I've tried versions `1.1.1`, `1.2.0.beta.3` and `1.2.0.rc.1` for this test.
 
-Currently a `Gemfile` is locked to `1.2.0.beta.3` but you can change it to `1.1.1` to test.
+Currently a `Gemfile` is locked to `1.2.0.rc.1` but you can change it to `1.1.1` to test.
 
 #### Dynamic framework
 
